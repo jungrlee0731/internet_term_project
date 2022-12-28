@@ -1,0 +1,5 @@
+{
+  "mongoURI":
+    "mongodb+srv://airplanes:airplanesDB@cluster0.utjhyh1.mongodb.net/?retryWrites=true&w=majority"
+}
+
